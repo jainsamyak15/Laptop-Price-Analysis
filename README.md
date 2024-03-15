@@ -46,7 +46,7 @@ The project includes the following steps:
 
 1. Clone the repository: `git clone https://github.com/jainsamyak15/Laptop-Price-Analysis.git`
 2. Navigate to the project directory: `cd Laptop-Price-Analysis`
-3. Install the required packages: `pip install -r requirements.txt`
+3. Install the required packages: `pip install -r requirements(1).txt`
 
 ## Usage
 
